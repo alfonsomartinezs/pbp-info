@@ -9,6 +9,9 @@ Stranded I closed my eyes, knelt, and prayed for the flock and I prayed to survi
 
 I later found out that Ampharos had seen the attack coming and hid my sheep, leaving me the choice to go back home empty handed or to put my trust in Ampharos that all would be well and become a true servant of the Lightning Sheep God. She seems pretty chill so far but has hinted that my destiny is not here but elsewhere. I decided to postpone my marriage after a pilgrimage to spread the love of Ampharos to other small villages in an attempt to lift the God higher on the patheon.
 
+
+## The Fighter
+
 ## The Immolator
 
 Immolators are not born, they are made. A monster broke the village crystal and was carrying off children. A travelling Immolator defeated the monster and instead of asking for payment, he said we must sacrifice something precious of the village. Being the last child alive in the village, I was offered. The Immolator led me to a hidden valley called the Pyre. There I was led into the miasma and subjected to the cleansing fires. I came out changed.
@@ -20,3 +23,8 @@ Immolators solve problems and hunt monsters. They are treated much like Witchers
 Area of expertise is histories of  bygone civilizations and peoples, gained mostly through swapping stories in roadside inns & remote villages and finding any common threads throughout them that point towards the truth. Novels, journals, and tomes of the history of that era are a welcome but rare find. 
 
 ## The Paladin
+
+Member of an order of peace keepers, commonly referred to "keepers". They have historically been given authority to keep the peace across the land. The order picks its own members, often times from pre-adulthood. Its authority mostly lies in historically having that authority - ruling bodies continue that lease because they don't have a reason not to.
+
+
+## The Thief

@@ -2,16 +2,22 @@
 
 ## Seats of Judgement
 
+**drives and themes**:
+
 Each settlement has an elected judge who interprets the various laws and makes rulings on the various conflicts within their domain. In addition, the Capitol has a certain number of travelling judges, authorities in whichever settlement they're currently residing in. These judges are elected by the capitol citizens. 
 
 
 ## The Keepers
 
-An order of peace keepers, commonly referred to "keepers", have historically been given authority to keep the peace across the land. A keeper would be supported by the local authorities (or a broader body) should they strike down a murderer on a spree or capturing a suspect for the region's guards, but not inasmuch as administering an execution for a suspected murderer. The order picks its own members, often times from pre-adulthood. 
+**drives and themes**:
+
+An order of peace keepers, commonly referred to "keepers", have historically been given authority to keep the peace across the land. When marked by an insignia pinned to their chest, a keeper would be supported by the local authorities (or a broader body) should they strike down a murderer on a spree or capturing a suspect for the region's guards, but not inasmuch as administering an execution for a suspected murderer. The order picks its own members, often times from pre-adulthood. 
 
 Its authority mostly lies in historically having that authority - ruling bodies continue that lease because they don't have a reason not to.
 
 ## The Immolators
+
+**drives and themes**:
 
 Immolators are not born, they are made.
 
