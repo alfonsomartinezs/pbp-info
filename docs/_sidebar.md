@@ -9,6 +9,8 @@
   - [The Mistlands](mistlands.md)
   - [The Valley](valley.md)
   - [The Capitol](capitol.md)
+  - [Paviedo](paviedo.md)
+  - [Curesh](curesh.md)
 - Rules
   - [Equipment](/equipment.md)
   - [Services](/services.md)

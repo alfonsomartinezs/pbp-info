@@ -1,5 +1,94 @@
 # The Heroes
 
+## Bonds
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>The Cleric</th>
+<th>The Druid</th>
+<th>The Immolator</th>
+<th>The Keeper</th>
+<th>The Loremaster</th>
+<th>The Slayer</th>
+<th>The Thief</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The Cleric</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+</tr>
+<tr>
+<td>The Druid</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+</tr>
+<tr>
+<td>The Immolator</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+</tr>
+<tr>
+<td>The Keeper</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+</tr>
+<tr>
+<td>The Loremaster</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+</tr>
+<tr>
+<td>The Slayer</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+</tr>
+<tr>
+<td>The Thief</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+<td>They are bonded to me in some very important and special way.</td>
+</tr>
+</tbody>
+</table>
+
 
 ## The Cleric
 
@@ -9,7 +98,13 @@ Stranded I closed my eyes, knelt, and prayed for the flock and I prayed to survi
 
 I later found out that Ampharos had seen the attack coming and hid my sheep, leaving me the choice to go back home empty handed or to put my trust in Ampharos that all would be well and become a true servant of the Lightning Sheep God. She seems pretty chill so far but has hinted that my destiny is not here but elsewhere. I decided to postpone my marriage after a pilgrimage to spread the love of Ampharos to other small villages in an attempt to lift the God higher on the patheon.
 
+## The Druid
 
+He learned Magic in the land of Curesh. Druids from that land are seen as healers of all the world's children, guardians of the sacred balance that keeps the spirit of the earth whole. They are guided by whispers on the wind, leaving their honored posts and their home when they catch word of an imbalance, considering it a summon for their aid.
+
+Abroad, they seek to fix what has become amiss, defend those that plan to cure that imbalance, and spread healing and nature's call in their path. 
+
+This druid heard anguish on the wind and a tremor in the soil, guiding him to seek out what has caused disturbance before he can return home.
 
 ## The Immolator
 
@@ -34,3 +129,5 @@ Area of expertise is histories of  bygone civilizations and peoples, gained most
 >Baruk Khazâd! Khazâd ai-mênu! Axes of the Dwarves! The Dwarves are upon you!
 
 ## The Thief
+
+Whispers learned his trade growing up among the guttersnipes, whores, rakes, and dissolute nobles of Paviedo, a city functionally ran by an elected body from the great houses. The chaotic, backstabbing internal politics and mercantile wealth that flow through the city creates an ideal crucible for an enterprising person to learn how to steal almost anything in almost any way. Whispers has learned that sometimes the most valuable, and most risky, things to steal are secrets; though as an enterprising guy he'll swipe anything he thinks he can get away with. Whispers has spent years mastering the application of Goldenroot, of which he has learned to forage for and prepare. He's always avoided membership in thieves guilds, preferring to take jobs directly from the banking houses or work on spec. Even if he doesn't have a buyer lined up, there's always someone interested in a secret.
