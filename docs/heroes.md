@@ -1,6 +1,10 @@
 # The Heroes
 
-## The Cleric
+## Dash, The Cleric
+
+<img class="portrait" src="images/dash.png"/>
+
+Dash Flechem had planned on following his father's footsteps and be the best sheep herder he could be; one day marrying the cute girl who wove the prettiest cloaks. His kind eyes always warming those he laid his sights on, the village thought him as a strong future leader despite his thin build and strange hair which traders would often poke fun of. However, after being saved by Ampharo's grace, Dash felt he was needed elsewhere in the world. Ampharos had given him a choice and he acted upon it. Now he decided the choice was his and while he often is saddened by what could've been, he set out to spread the love of Ampharos to other villages who need aid and help the downtrodden and forgotten. Maybe one day he would return to his village... Maybe one day.
 
 My God is Ampharos, the God of thunderstorms, lightning, and flocks of sheep. I was raised as a shepherd in the mountain valley village of Ingenstans. They are well known as the lesser of lesser gods among the patheons but to mountain valley villages they are one of the main deities since praying to Ampharos seems to usually work. Village was doing well, I was even to be married but while doing my normal herding I lost a flock to the earth as the ground opened up and closed abruptly after they all fell in. I searched for hours until it was too dark to go back safely. 
 
@@ -52,7 +56,7 @@ Member of an order of peace keepers, commonly referred to "keepers". They have h
 
 ### Bonds
 - I am often the butt of **Noah's** jokes.
-- **Whispers** stole something from me (what?).
+- **Whispers** stole *something* from me.
 - **Whispers** and **Noah's** misguided behavior endangers their very souls.
 - I respect the beliefs of **Boreas** but hope they will someday see the true way.
 - **Dash** is trying to converting me to their faith.
@@ -71,7 +75,7 @@ Area of expertise is histories of  bygone civilizations and peoples, gained most
 - I told stories of **Gizurr** long before I ever met them in person. He does not think I will survive the tunnels.
 -  **Darris** is often the butt of my jokes. He worries about my soul.
 - I am writing a novel about the adventures of **Whispers**. We also have a con running in stealing tithings from **Darris'** god.
--  **Bramble** trusted me with a secret, the rite of the land.
+-  **Bramble** trusted me with a secret, the *rite of the land*.
 -   **Dash** does not trust me after I insulted his god. 
 
 

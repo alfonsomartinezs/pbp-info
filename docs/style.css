@@ -75,7 +75,7 @@ img {
   max-width: 100%;
 }
 .portrait{
-  max-width: 500px;
+  max-height: 500px;
   margin:0 auto;
   display: block;
 }
