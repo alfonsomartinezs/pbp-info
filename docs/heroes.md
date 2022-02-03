@@ -29,7 +29,7 @@ This druid heard anguish on the wind and a tremor in the soil, guiding him to se
 - `[          ]` smells more like prey than a hunter.
 - The spirits spoke to me of a great danger that follows **Boreas**.
 - I have showed **Noah** a secret rite of the land (what?).
-- `[          ]`has tasted my blood and I theirs. We are bound by it.
+- **Gizzur** has tasted my blood and I theirs. We are bound by it.
 
 
 ## The Immolator
@@ -89,6 +89,14 @@ Under hard eyes Gizurr Hávi strides the battlefield. With striking orange hair,
 
 >Baruk Khazâd! Khazâd ai-mênu! Axes of the Dwarves! The Dwarves are upon you!
 
+### Bonds
+
+- **Boreas** owes me their life, whether they admit it or not.
+- I have sworn to protect **Dash**.
+- I worry about the ability of **Noah** to survive in the dungeon.
+- **Darrius** is soft, but I will make them hard like me.
+
+
 ## Whispers, The Thief
 
 <img class="portrait" src="images/whispers.jpeg"/>
@@ -96,3 +104,13 @@ Under hard eyes Gizurr Hávi strides the battlefield. With striking orange hair,
 Though he would prefer to think or talk his way out of a fight, Whispers is handy with a rapier to poke his way out of a situation (he's not above using his "rapier" to "poke" his way out of a situation too). Amiable & easygoing, he's easy to forgive as long as it's "fair play." That said, he always keeps an eye on the exits, and avoids making eye contact unless he needs to turn on the charm. He's always found that the easiest way to avoid getting caught is to pretend like he belongs there.
 
 Whispers learned his trade growing up among the guttersnipes, whores, rakes, and dissolute nobles of Paviedo, a city functionally ran by an elected body from the great houses. The chaotic, backstabbing internal politics and mercantile wealth that flow through the city creates an ideal crucible for an enterprising person to learn how to steal almost anything in almost any way. Whispers has learned that sometimes the most valuable, and most risky, things to steal are secrets; though as an enterprising guy he'll swipe anything he thinks he can get away with. Whispers has spent years mastering the application of Goldenroot, of which he has learned to forage for and prepare. He's always avoided membership in thieves guilds, preferring to take jobs directly from the banking houses or work on spec. Even if he doesn't have a buyer lined up, there's always someone interested in a secret.
+
+## Ereshkael, The Wizard
+
+Ereshkael is a tall, stylish practitioner of the arcane arts, trying to do good in the world. Ereshkael was banished from his junior position on the Elven Council for disrupting a meeting where a unanimous decision was made to allow a smaller village to burn in order to safeguard the Council. With his research in hand, he travels to far away lands to do what the council would not, help those who need it. Ereshkael is always in pursuit of ways to empower himself in order to serve as a greater bulwark to the downtrodden who are powerless to defend themselves.
+
+### Bonds
+
+- **Dash** will play an important role in the events to come. I have foreseen it!
+- `[        ]` is keeping an important secret from me.
+- `[        ]` is woefully misinformed about the world; I will teach them all that I can
