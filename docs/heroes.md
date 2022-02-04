@@ -16,8 +16,7 @@ I later found out that Ampharos had seen the attack coming and hid my sheep, lea
 
 Bramble is a weathered halfling druid of Curesh with a dry bark of laugh and speaks in soft rumbles. Adorning his leather armor are plates of bark from fallen trees of his homeland, the leather and wood a memorial and gift from the fauna and flora that he shows guardianship over. His hair is coarse, almost more like a creature's fur, and his glimmering eyes hold an unspoken passion and promise. His nose seems flat and discolored, more resembling the nose of a canid, which matches his sharp toothy grin when he shows one. He claims that it is a gift of the soil, and helps him find the needed herbs and remedies to heal those around him.
 
-He walks with a shillelagh, the wood appearing to  have only strengthened with age and kept in immaculate care. Focusing on healing, he has poultices and herbs, some tied directly to his waist. The items he carries always gives him the faint scent of mint and dried leaves.
-
+He walks with a shillelagh, the wood appearing to have only strengthened with age and kept in immaculate care. Focusing on healing, he has poultices and herbs, some tied directly to his waist. The items he carries always gives him the faint scent of mint and dried leaves.
 
 He learned Magic in the land of Curesh. Druids from that land are seen as healers of all the world's children, guardians of the sacred balance that keeps the spirit of the earth whole. They are guided by whispers on the wind, leaving their honored posts and their home when they catch word of an imbalance, considering it a summon for their aid.
 
