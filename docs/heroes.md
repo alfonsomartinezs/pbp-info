@@ -12,6 +12,17 @@ Stranded I closed my eyes, knelt, and prayed for the flock and I prayed to survi
 
 I later found out that Ampharos had seen the attack coming and hid my sheep, leaving me the choice to go back home empty handed or to put my trust in Ampharos that all would be well and become a true servant of the Lightning Sheep God. She seems pretty chill so far but has hinted that my destiny is not here but elsewhere. I decided to postpone my marriage after a pilgrimage to spread the love of Ampharos to other small villages in an attempt to lift the God higher on the patheon.
 
+
+### Bonds
+
+- **Noah** has insulted my deity; I do not trust them.
+
+- `[         ]` is a good and faithful person; I trust them implicitly.
+
+- `[         ]` is in constant danger, I will keep them safe.
+
+- I am working on converting **Darris** to my faith.
+
 ## Bramble, The Druid
 
 Bramble is a weathered halfling druid of Curesh with a dry bark of laugh and speaks in soft rumbles. Adorning his leather armor are plates of bark from fallen trees of his homeland, the leather and wood a memorial and gift from the fauna and flora that he shows guardianship over. His hair is coarse, almost more like a creature's fur, and his glimmering eyes hold an unspoken passion and promise. His nose seems flat and discolored, more resembling the nose of a canid, which matches his sharp toothy grin when he shows one. He claims that it is a gift of the soil, and helps him find the needed herbs and remedies to heal those around him.
@@ -107,7 +118,7 @@ Whispers learned his trade growing up among the guttersnipes, whores, rakes, and
 
 <img class="portrait" src="images/ereshkael.jpeg"/>
 
-Ereshkael is a tall, stylish practitioner of the arcane arts, trying to do good in the world. Ereshkael was banished from his junior position on the Elven Council for disrupting a meeting where a unanimous decision was made to allow a smaller village to burn in order to safeguard the Council. With his research in hand, he travels to far away lands to do what the council would not, help those who need it. Ereshkael is always in pursuit of ways to empower himself in order to serve as a greater bulwark to those who are powerless to defend themselves.
+Ereshkael is a tall, stylish practitioner of the arcane arts, trying to do good in the world. Ereshkael was banished from his junior position on the Council for disrupting a meeting where a unanimous decision was made to allow a smaller village to burn in order to safeguard the Council. With his research in hand, he travels to far away lands to do what the council would not, help those who need it. Ereshkael is always in pursuit of ways to empower himself in order to serve as a greater bulwark to those who are powerless to defend themselves.
 
 Dash will play an important role in the events to come. The research is irrefutable.
 Gizurr is woefully misinformed about the world, I will teach him all I can.
