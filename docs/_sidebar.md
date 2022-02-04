@@ -5,12 +5,11 @@
   - [NPCs](npcs.md)
   - [Organizations](organizations.md)
 - Places
-  - [Haven](haven.md)
-  - [The Mistlands](mistlands.md)
-  - [The Valley](valley.md)
-  - [The Capitol](capitol.md)
-  - [Paviedo](paviedo.md)
-  - [Curesh](curesh.md)
+  - [The Mistlands](places/mistlands.md)
+  - [The Valley](places/valley.md)
+  - [The Silver Coast](places/silver_coast.md)
+  - [Curesh](places/curesh.md)
+
 - Rules
   - [Equipment](/equipment.md)
   - [Services](/services.md)

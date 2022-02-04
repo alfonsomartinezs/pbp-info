@@ -51,7 +51,6 @@ He carries himself proudly, but does not act as if he is better than anyone. He 
 
 While not averse to simple fun and still in possession of a sense of humor, he often remains outside of merriment, smiling on. "Serious", some would say, though "thoughtful" or "pensive" may be more accurate. 
 
-
 Member of an order of peace keepers, commonly referred to "keepers". They have historically been given authority to keep the peace across the land. The order picks its own members, often times from pre-adulthood. Its authority mostly lies in historically having that authority - ruling bodies continue that lease because they don't have a reason not to.
 
 ### Bonds
@@ -107,10 +106,15 @@ Whispers learned his trade growing up among the guttersnipes, whores, rakes, and
 
 ## Ereshkael, The Wizard
 
-Ereshkael is a tall, stylish practitioner of the arcane arts, trying to do good in the world. Ereshkael was banished from his junior position on the Elven Council for disrupting a meeting where a unanimous decision was made to allow a smaller village to burn in order to safeguard the Council. With his research in hand, he travels to far away lands to do what the council would not, help those who need it. Ereshkael is always in pursuit of ways to empower himself in order to serve as a greater bulwark to the downtrodden who are powerless to defend themselves.
+<img class="portrait" src="images/ereshkael.jpeg"/>
+
+Ereshkael is a tall, stylish practitioner of the arcane arts, trying to do good in the world. Ereshkael was banished from his junior position on the Elven Council for disrupting a meeting where a unanimous decision was made to allow a smaller village to burn in order to safeguard the Council. With his research in hand, he travels to far away lands to do what the council would not, help those who need it. Ereshkael is always in pursuit of ways to empower himself in order to serve as a greater bulwark to those who are powerless to defend themselves.
+
+Dash will play an important role in the events to come. The research is irrefutable.
+Gizurr is woefully misinformed about the world, I will teach him all I can.
 
 ### Bonds
 
 - **Dash** will play an important role in the events to come. I have foreseen it!
 - `[        ]` is keeping an important secret from me.
-- `[        ]` is woefully misinformed about the world; I will teach them all that I can
+- **Gizurr** is woefully misinformed about the world; I will teach them all that I can

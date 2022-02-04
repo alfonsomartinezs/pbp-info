@@ -6,6 +6,12 @@ Think of the Continent as a precious treasure, beautiful and coveted by existenc
 
 Against this cosmic background, the Continent has recently ended a long war. The world rests, but old wounds still fester. The Capitol and its Judges still feuds with the Great Houses, who in turn feud with the Keepers and Immolators. The people suffer. Discontent grows, and there are murmers of dark paths to power available to any who would follow.
 
+The World you know is split into 4 major areas:
+- **The Valley** spreads from the center of the land to its northern coast. The mists travel across the land closer to the edge, but the capitol at the center lays mostly undisturbed. The *Seats* of the Capitol have their home here, one of the last settlements where they don't fight betterly with the *Large Houses* for control.
+- **The Mistlands**, to the north of the valley. The land within is covered in mist more often than not, so the denizens rely on mountaintops for safety and on the tunnels and shardscape for travel. **Judges** and **Keepers** visit freely, and immolators are generally more tolerated than in other areas. 
+- **The Silver Coast** to the east of the valley. Separated from the capitol by mountain ranges, settlements on the silver coast heed the *Seats* and their *Judges* with varying degrees of apathy. The *Large Houses* rule here, but rumors spread of a mysterious *cult* that promises freedom even from them. Paveido is the largest city on the silver coast, and functions as a home for members of the Houses.
+- **Curesh** is a forest to the west of the valley, protected from the mists by a group known as the Council. Though all are welcome to visit, only few select to stay. The forest has dangers of its own, distinct from the rest of the land. While not actively hostile, the council of elves dislikes *immolators*.
+
 ### Starting the Adventure
 Your party finds itself under the earth, escorting travellers of all sorts to [Haven](haven.md). It's been several weeks and many travellers have been lost, but the city is only days away.
 
@@ -46,3 +52,7 @@ Commerce and finance are largely controlled by large national and international 
 ### A Cult on the Rise
 
 An underground (literally or not) movement has started to cause stirs in the people across the realm/continent/land that the path to personal power lies with the ritual sacrifice of living beings. This cult is not yet so commonplace that everyone knows about it, but rumors are starting to circulate.
+
+### A Growing Flame in the Night Sky
+
+A star in the night's sky grows brighter by the month. Some scholars speculate it is a meteor of cataclysmic proportions, others say it is the final stage of a prophecy set in motion hundreds of years ago. While the people as a whole cannot agree with what it means, a number of children across the land have had strange, uniform dreams involving an eye made of ice watching them from the sky.
