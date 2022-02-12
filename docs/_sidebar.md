@@ -1,9 +1,9 @@
 - Getting Started
   - [Home](/)
 - People
-  - [The Heroes](heroes.md)
-  - [NPCs](npcs.md)
-  - [Organizations](organizations.md)
+  - [The Heroes](people/heroes.md)
+  - [NPCs](people/npcs.md)
+  - [Organizations](people/organizations.md)
 - Places
   - [The Mistlands](places/mistlands.md)
   - [The Valley](places/valley.md)
@@ -11,5 +11,9 @@
   - [Curesh](places/curesh.md)
 
 - Rules
-  - [Equipment](/equipment.md)
-  - [Services](/services.md)
+  - [Equipment](rules/equipment.md)
+  - [Services](rules/services.md)
+  - [Bestiary](rules/bestiary.md)
+  - [World Moves](rules/world_moves.md)
+
+
